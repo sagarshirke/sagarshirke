@@ -6,6 +6,7 @@ I am working as Business Analyst Intern at Gamaka AI Solutions, I am passionate 
 👨 Know more about me at [My Resume](add your google drive resume link here)
 
 My Recent projects
+
 Customer-Churn-
 
 
